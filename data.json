@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "nombre": "Cerveza",
+        "precio": 449,
+        "imagen": "https://gobar.vtexassets.com/arquivos/ids/157473/Andes-Origen-IPA.jpg?v=637218864324070000",
+        "cantidad": 1, 
+        "paginaHTML": "html/bebida1.html"
+        },
+        {
+        "id": 2,
+        "nombre": "Gancia",
+        "precio": 2327,
+        "imagen": "https://cdn11.bigcommerce.com/s-abmjjefojj/images/stencil/1280x1280/products/2644/17496/Diapositiva5__36728.1682548582.JPG?c=1",
+        "cantidad": 1,   
+        "paginaHTML": "html/bebida2.html"
+        },
+        {
+        "id": 3,
+        "nombre": "CocaCola",
+        "precio": 1025,
+        "imagen": "https://media.f2h.shop/media/catalog/product/cache/ab45d104292f1bb63d093e6be8310c97/i/m/imageedit_3_4516158279.png",
+        "cantidad": 1,
+        "paginaHTML": "html/bebida3.html"
+        },
+        {
+        "id": 4,
+        "nombre": "Baggio",
+        "precio": 3150,
+        "imagen": "https://delimart.com.ar/user-content/a99a71cf-196e-487d-ba89-1f663d0538a0.jpg",
+        "cantidad": 1,
+        "paginaHTML": "html/bebida4.html"   
+        },
+        {
+        "id": 5,
+        "nombre": "Schweppes",
+        "precio": 749,
+        "imagen": "https://acdn.mitiendanube.com/stores/001/144/141/products/whatsapp-image-2021-08-25-at-11-12-451-d01433d2f6420dcd2c16299008365480-1024-1024.jpeg",
+        "cantidad": 1,
+        "paginaHTML": "html/bebida5.html"   
+        },
+        {
+        "id": 6,
+        "nombre": "Fernet Branca",
+        "precio": 4135,
+        "imagen": "https://b1713903.smushcdn.com/1713903/wp-content/uploads/2019/11/022030001209005-500x500.jpg?lossy=0&strip=1&webp=1",
+        "cantidad": 1,
+        "paginaHTML": "html/bebida6.html"
+        },
+        {
+        "id": 7,
+        "nombre": "Campari",
+        "precio": 2480,
+        "imagen": "https://acdn.mitiendanube.com/stores/001/395/170/products/campari-7501-ba2b8a274c5402701116385680548449-640-0.png",
+        "cantidad": 1,
+        "paginaHTML": "html/bebida7.html"   
+        },
+        {
+        "id": 8,
+        "nombre": "vino",
+        "precio": 2200,
+        "imagen": "https://media.f2h.shop/media/catalog/product/cache/ab45d104292f1bb63d093e6be8310c97/d/a/dada_n_1_750ml.png",
+        "cantidad": 1,
+        "paginaHTML": "html/bebida8.html"
+    }
+    ]
